@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.3.0" />
+    <PackageReference Include="FluentValidation" Version="10.3.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Movie.Core\Movie.Core.csproj" />
+    <ProjectReference Include="..\Movie.DataAccess\Movie.DataAccess.csproj" />
+    <ProjectReference Include="..\Movie.Entities\Movie.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

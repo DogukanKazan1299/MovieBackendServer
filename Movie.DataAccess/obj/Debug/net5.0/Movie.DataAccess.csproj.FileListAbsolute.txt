@@ -1,0 +1,17 @@
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\bin\Debug\net5.0\Movie.DataAccess.deps.json
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\bin\Debug\net5.0\Movie.DataAccess.dll
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\bin\Debug\net5.0\ref\Movie.DataAccess.dll
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\bin\Debug\net5.0\Movie.DataAccess.pdb
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\bin\Debug\net5.0\Movie.Core.dll
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\bin\Debug\net5.0\Movie.Entities.dll
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\bin\Debug\net5.0\Movie.Entities.pdb
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\bin\Debug\net5.0\Movie.Core.pdb
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\obj\Debug\net5.0\Movie.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\obj\Debug\net5.0\Movie.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\obj\Debug\net5.0\Movie.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\obj\Debug\net5.0\Movie.DataAccess.AssemblyInfo.cs
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\obj\Debug\net5.0\Movie.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\obj\Debug\net5.0\Movie.DataAccess.csproj.CopyComplete
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\obj\Debug\net5.0\Movie.DataAccess.dll
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\obj\Debug\net5.0\ref\Movie.DataAccess.dll
+C:\Users\dkzn1\source\repos\DogukanKazanMovieSystem\Movie.DataAccess\obj\Debug\net5.0\Movie.DataAccess.pdb
